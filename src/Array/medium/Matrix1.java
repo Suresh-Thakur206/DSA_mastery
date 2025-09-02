@@ -20,11 +20,49 @@ public class Matrix1 {
         }
 
         // printing element of matrix
-        System.out.println("Element of matrix are: ");
+        System.out.println("Element of matrix before manupulate are: ");
 
         for(int i=0;i<row;i++)
         {
             for(int j=0;j<col;j++){
+
+                    System.out.print(arr[i][j]+"\t");
+            }
+            System.out.print("\n");
+        }
+
+        // Test case
+
+        boolean isTrue=false;
+ 
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+                if(arr[i][j]==0){
+                    for(int l=0;l<col;l++){
+                        arr[i][l]=0;
+                    }
+                    for(int k=0;k<row;k++){
+                        arr[k][j]=0;
+                    }
+                    isTrue=true;
+                    break;
+                }
+
+            }
+            if(isTrue){
+                break;
+            }
+        }
+
+        // after manupulation
+
+
+        System.out.println("Element of matrix after manupulate are: ");
+
+        for(int i=0;i<row;i++)
+        {
+            for(int j=0;j<col;j++){
+
                 System.out.print(arr[i][j]+"\t");
             }
             System.out.print("\n");
