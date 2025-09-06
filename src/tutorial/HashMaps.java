@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class HashMaps {
     public static void main(String[] args) {
-        java.util.HashMap<String,Integer> map=new java.util.HashMap<>();
+       HashMap<String,Integer> map=new HashMap<>();
         map.put("nepal",120);
         map.put("india",500);
         map.put("srilanka",100);
