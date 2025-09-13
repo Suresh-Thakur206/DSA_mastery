@@ -1,60 +1,29 @@
-//public class BruteForceRotatedSorted {
-//
-//    public static void main(String[] args) {
-//        int[] nums = {3, 4, 5, 1, 2}; // Example input
+//class Solution {
+//    public boolean check(int[] nums) {
 //        int n = nums.length;
-//        boolean isRotatedSorted = false;
 //
-//        // Try all possible rotations
-//        for (int rotate = 0; rotate < n; rotate++) {
-//            boolean sorted = true;
+//        // Try every possible rotation
+//        for (int r = 0; r < n; r++) {
+//            boolean isSorted = true;
 //
-//            // Check if this rotated view would be sorted
-//            for (int i = 0; i < n; i++) {
-//                int current = nums[(i + rotate) % n];
-//                int next = nums[(i + 1 + rotate) % n]; // circular check
+//            // Check if this rotation is sorted
+//            for (int i = 0; i < n-1; i++) {
+//                int current = nums[(i + r) % n];
+//                int next = nums[(i + 1 + r) % n];
+//
 //                if (current > next) {
-//                    sorted = false; // Not sorted
-//                    break; // Stop checking this rotation
+//                    isSorted = false;  // Not sorted
+//                    break;
 //                }
 //            }
 //
-//            if (sorted) {
-//                isRotatedSorted = true;
-//                break; // Found a sorted rotation, no need to check further
+//            // If sorted rotation found, return true
+//            if (isSorted) {
+//                return true;
 //            }
 //        }
 //
-//        System.out.println(isRotatedSorted); // true or false
-//    }
-//}
-//public class BruteForceRotatedSorted {
-//
-//    public static void main(String[] args) {
-//        int[] nums = {3, 4, 5, 1, 2}; // Example input
-//        int n = nums.length;
-//        boolean isRotatedSorted = false;
-//
-//        // Try all possible rotations
-//        for (int rotate = 0; rotate < n; rotate++) {
-//            boolean sorted = true;
-//
-//            // Check if this rotated view would be sorted
-//            for (int i = 0; i < n; i++) {
-//                int current = nums[(i + rotate) % n];
-//                int next = nums[(i + 1 + rotate) % n]; // circular check
-//                if (current > next) {
-//                    sorted = false; // Not sorted
-//                    break; // Stop checking this rotation
-//                }
-//            }
-//
-//            if (sorted) {
-//                isRotatedSorted = true;
-//                break; // Found a sorted rotation, no need to check further
-//            }
-//        }
-//
-//        System.out.println(isRotatedSorted); // true or false
+//        // No sorted rotation found
+//        return false;
 //    }
 //}
