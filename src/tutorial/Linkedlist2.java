@@ -47,11 +47,14 @@ public class Linkedlist2 {
         }
         return 0;
     }
+
     public static void main(String[] args) {
         int []arr={12,5,6,8,7,9};
         Node1 head=converArr2LL(arr);
        // System.out.println(lengthLL(head));
-        System.out.println(checkLL(head,3));
+        //System.out.println(checkLL(head,3));
+
+
 
 }
 }
