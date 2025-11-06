@@ -37,22 +37,45 @@ public class Linkedlist2 {
         return cnt;
     }
     // serching
-    public static int checkLL(Node1 head,int value){
-        Node1 temp=head;
-        while(temp!=null){
-            if(temp.data==value){
+    public static int checkLL(Node1 head,int value) {
+        Node1 temp = head;
+        while (temp != null) {
+            if (temp.data == value) {
                 return 1;
             }
-            temp=temp.next;
+            temp = temp.next;
         }
         return 0;
     }
+    // reversing list
+   public static Node1 revList(Node1 head){
+       Node1 temp=head;
+       while(temp!=null){
+           if(temp.next==null){
+               return new Node1(temp.data,head);
+           }
+           temp=temp.next;
+       }
+       return head;
+   }
+    // printing list
+
+    public static void printList(Node1 head){
+        Node1 temp=head;
+        while(temp!=null){
+            System.out.println(temp.data);
+            temp=temp.next;
+        }
+    }
 
     public static void main(String[] args) {
-        int []arr={12,5,6,8,7,9};
+        int []arr={1,2,3,4,5};
         Node1 head=converArr2LL(arr);
        // System.out.println(lengthLL(head));
         //System.out.println(checkLL(head,3));
+        //printList(head);
+        head=revList(head);
+        printList(head);
 
 
 
