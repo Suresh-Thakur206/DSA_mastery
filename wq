@@ -1,0 +1,402 @@
+[33mcommit 3b4c8e48e8da948ab9aa10b1b29fd847ab9af0f8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Mon Nov 17 13:17:53 2025 +0545
+
+    feat:Context Problem Minimum string Length After Balanced Removal
+
+[33mcommit b831e8046268c53a7b8730c1d442189ca89be1f6[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Mon Nov 17 09:58:38 2025 +0545
+
+    feat:Add Optimal Solution for Odd Even LL
+
+[33mcommit 91c91f2bed2356b269f098fb54efb43aff71006c[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sun Nov 16 13:55:38 2025 +0545
+
+    feat:Add Optimal solution for Chek Palindrom in LinkedList
+
+[33mcommit 5b8862a59632523b7a369687c1033543e35369f7[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sun Nov 16 11:54:21 2025 +0545
+
+    feat:Add brute force soluion for checking Palindrom of LinkedList
+
+[33mcommit 7fa9fba5c44f8033a267e42071f3eee4b50ff028[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sun Nov 16 09:24:24 2025 +0545
+
+    feat:Add Optimal Solution for Length of Loop in LinkedList
+
+[33mcommit 43bcf12e3c5ca465ae3fe9a03b06ef173b72657c[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sun Nov 16 09:12:39 2025 +0545
+
+    feat:Add Brute Force Solution fof Length of Loop LL
+
+[33mcommit e1ea09d205cb8a1a8d202851c7bb0a51e9aced3d[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sat Nov 15 19:09:16 2025 +0545
+
+    feat:Add Optimal Solution for LL Cycle II
+
+[33mcommit a7dfa1733a06037a6590f38af83740d18f37bf78[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sat Nov 15 16:32:27 2025 +0545
+
+    feat:Add Middle  Node of LinkedList Brute Force Solution
+
+[33mcommit f0333cdf472b3c9acced120234ae6c1366104538[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Nov 13 09:53:27 2025 +0545
+
+    feat: Add Brute Force Solution For Copy List with Random Pointer
+
+[33mcommit b900c3a4ab7c2d68be6b5b0751b04a437ff1833f[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Wed Nov 12 21:23:14 2025 +0545
+
+    feat:Add Optimal solution for Remove Nth Node From List
+
+[33mcommit a61db8c102f94889013dffd8d91fbd856399ea2e[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Tue Nov 11 18:35:59 2025 +0545
+
+    feat:Add Brute Force Solution for Remove Nth element for End
+
+[33mcommit 58b46a9215e4e0d78e0f942e968251cf4c0ba548[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Mon Nov 10 16:04:44 2025 +0545
+
+    feat:Add Optimal Solution for ReorderList
+
+[33mcommit fbd87b38b059de5f81161afc0b8331635cf7a202[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sun Nov 9 22:26:42 2025 +0545
+
+    feat:Add brute force solution with space complexity O(n) for Reorder List problem
+
+[33mcommit 71a09c5e2db8520c317b50888bac1ba3098a3e70[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sun Nov 9 18:10:25 2025 +0545
+
+    feat:optimal solution for reorder list
+
+[33mcommit 1bb3d8625950f43953ba07a8d6588ae5c437394a[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sat Nov 8 14:31:38 2025 +0545
+
+    feat:Add Linked List Cycle optimal solution
+
+[33mcommit 9e6f3bf0752a1fbcef790968b4a01719f1ef7766[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sat Nov 8 08:23:29 2025 +0545
+
+    feat:Add brute force for Linked List Cycle
+
+[33mcommit 2bc71bdd4a226f33ebceef454bb79ae492c04099[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Fri Nov 7 23:46:13 2025 +0545
+
+    optimal solution for merge sort
+
+[33mcommit 5cf13d77892c2f1359ddb9a37d193530fd37ed53[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Fri Nov 7 18:28:30 2025 +0545
+
+    brute force for reverse list
+
+[33mcommit 05b18d0bdda90ef5983f7837e0aff6f271944e0c[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Nov 6 21:22:27 2025 +0545
+
+    reversed list in linkedlist
+
+[33mcommit 1006dbc418d31275f43a11565fc05856c6d53536[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Wed Nov 5 17:39:49 2025 +0545
+
+    insertion head, last, kth positoin and value in linkedlist done
+
+[33mcommit 39138266e8213b873d1fff9c5e6f9d46d15a3a4b[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Wed Nov 5 10:03:08 2025 +0545
+
+    remove element form index based and value based
+
+[33mcommit 19b1f29ef84ea89bf58829f7dc6beabc610d68ee[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Tue Nov 4 21:02:53 2025 +0545
+
+    deleted the last node from linkedlist
+
+[33mcommit cf366ae7dcb8a59dca985067afda08fec1ab281e[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Tue Nov 4 14:50:11 2025 +0545
+
+    delet linkedlist head
+
+[33mcommit c5e71a04135c634dfda9afc03e9f17dd00373611[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Tue Nov 4 13:07:36 2025 +0545
+
+    traversal through linkedlist,total count of linkedlist and searching element in linkedlist are done
+
+[33mcommit 071f4f971733863b5cca6f8916b7a741c2911495[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Tue Nov 4 09:05:48 2025 +0545
+
+    traversed through array and convert to linkedlist and retrun head
+
+[33mcommit e82824017aa5a4fea4548174886ff4fca6a05100[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Mon Nov 3 22:17:51 2025 +0545
+
+    linkedlist tutorial 1
+
+[33mcommit 68c056db2b1e69ced1b5d84e8f07ee54ca662216[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Mon Nov 3 21:00:05 2025 +0545
+
+    optimal solution for floor in sorted array
+
+[33mcommit 8b6671ab26eaec8558a506f9ac4c7695bfb22d57[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Mon Nov 3 20:57:27 2025 +0545
+
+    brute force solution for floor in sorted array
+
+[33mcommit 734002a0628edee22ccbc787ed45508dc20fcd3a[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Oct 16 08:15:50 2025 +0545
+
+    brute force for find kth rotation
+
+[33mcommit 1309dac581048fdbfd66e210e67428a3fea6d6e4[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Tue Oct 14 11:52:38 2025 +0545
+
+    optimal solution for rotated array
+
+[33mcommit 34c2714b719505d7588159b0fc4e1d75e03d8f02[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Tue Oct 14 11:12:15 2025 +0545
+
+    optimal solution for minimum element in rotated array using binary search done
+
+[33mcommit a9a8a86e38524a47bc3c5a91c4f3f555ee74a240[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Mon Oct 13 21:39:47 2025 +0545
+
+    remove parenthesis optimal solution done
+
+[33mcommit efc338d7011741046f52a14208002786ae13d981[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Oct 2 06:12:14 2025 +0545
+
+    optimal solution for insertposition
+
+[33mcommit 474ca1b9102e6a52b3d05c97632e3ff8cc873c24[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Fri Sep 19 20:33:02 2025 +0545
+
+    optimal solution for implement lower bound
+
+[33mcommit 2157e13de17a520e364fdca0bdcedc965a8fc068[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sat Sep 13 19:08:38 2025 +0545
+
+    optimal solution for set matrix to zero
+
+[33mcommit f6aa53f4093abb859e12b5a22cfbc2e02921806e[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sat Sep 13 09:55:53 2025 +0545
+
+    optimal solution for sorted array check
+
+[33mcommit bf5702cb671f16f51acd70282d1c3b3ac307e411[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Fri Sep 12 08:01:58 2025 +0545
+
+    brute force 2 for sorted array
+
+[33mcommit 9a79b40551fefa787996ee2057a59f4a4a70284a[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Sep 11 23:58:11 2025 +0545
+
+    brute force solution for check if array is sorted and rotated
+
+[33mcommit 35369f6e33a616a4c47f3247ce7744df0acd07a4[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Wed Sep 10 16:28:23 2025 +0545
+
+    brute force for set matrix to zero using integer row and column extra matrix
+
+[33mcommit 836746fb69eed7f2b5885969b8f77696aeb54612[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sun Sep 7 17:53:30 2025 +0545
+
+    brute force solution for set matrix to zero done
+
+[33mcommit f5ceb9c6aaa89c1fd6db50ecdf8f0d69b87cb670[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sat Sep 6 17:32:45 2025 +0545
+
+    brute force for set matrix to szero one test case fail
+
+[33mcommit 53e2f413dd85e02ec8240985663149640fdff400[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Tue Sep 2 18:42:22 2025 +0545
+
+    zero matrix brute force solution 1
+
+[33mcommit 4e66b4a1e34c17ccebb0de912237a73a1743a6f3[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Tue Sep 2 13:49:23 2025 +0545
+
+    2D array learn
+
+[33mcommit 71cd4dabfb85fb04e1e07f6ad49311cd1c84b78c[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Wed Aug 27 18:51:13 2025 +0545
+
+    optimized solution for target element
+
+[33mcommit c8eee2ce218b6872b7b5fe2fc6d12a1881fd6fbb[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Wed Aug 27 09:59:37 2025 +0545
+
+    target element optimal solution done
+
+[33mcommit 6a31cf06492e910d22ff0a09ab8cd35a2d153061[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Wed Aug 27 09:38:10 2025 +0545
+
+    binary search target elment exist brute force solution done
+
+[33mcommit d681aab75bd63cf88a49451b2bdc2725ca814205[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Mon Aug 11 17:31:08 2025 +0545
+
+    ArrayLeader bruteforce done
+
+[33mcommit 9ffb868222d567d6aa9dde9c7b36ff0d2bb6f651[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sun Aug 10 17:07:34 2025 +0545
+
+    optimized solution for rearrange element by sign
+
+[33mcommit ad9488665f6e39526639802d8a4000205bcf6b54[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sat Aug 9 18:08:55 2025 +0545
+
+    rearrange element by sign brute force done using arraylist data structure using automatic arraylist to arrayconvert using stream function
+
+[33mcommit 89858d916cab16c723fdc51c6d0997e71a92690e[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sat Aug 9 18:01:35 2025 +0545
+
+    brute force for rearrange element by sign using arraylist with manual method
+
+[33mcommit fbfe6ffb1e128c2403eb2434e1aa13d796f226b2[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Aug 7 09:22:39 2025 +0545
+
+    rearrange element by sign brute force solution done
+
+[33mcommit f797a3ddcfc6dacd26d36e1ee113ae9688fad6ad[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Mon Aug 4 09:55:01 2025 +0545
+
+    maximum subarray returned question solved
+
+[33mcommit 64269565fe94b39928f5f14c58a90237e45df7e1[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sat Aug 2 17:37:43 2025 +0545
+
+    Maxinmum Sub Array problem solved
+
+[33mcommit e2ae9152faaaf36e2d26affc835cb7e8be46be5b[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Sat Aug 2 09:10:03 2025 +0545
+
+    brute force solution for maxmum sbarray but time limited exceed
+
+[33mcommit 33de5a05c8116d240752ba123b6672726a7ba56d[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Fri Aug 1 00:18:10 2025 +0545
+
+    optimized version with efficient code for majority of element
+
+[33mcommit fefb5624757b4265e85bfe1268e4faab30bd1bba[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Fri Aug 1 00:04:24 2025 +0545
+
+    optimized solution for majority element with raw logic
+
+[33mcommit 2bab8a102a847904c938d2113d78ac56ce48ed7a[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Jul 31 08:43:19 2025 +0545
+
+    optimized solution done
+
+[33mcommit 6a3686b306e8465706423808a3c70141f8c3d8a0[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Jul 31 08:23:01 2025 +0545
+
+    brute force solution done also managed time and space limit exceed
+
+[33mcommit feac5166e302cc796a543d4794965c9a2a180203[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Jul 31 08:12:46 2025 +0545
+
+    brute forc2  done but time limit exceeded
+
+[33mcommit f00ba6c6201c0ade5ffd1d8aabd8bee158a5c2ac[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Jul 31 00:07:24 2025 +0545
+
+    brute foce done but memory is exceed error occured
+
+[33mcommit 508e87ddec5d9d289cc83dad1c1b20ddcbb7b09c[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Jul 24 17:43:46 2025 +0545
+
+    optimized approach on twosum problem
+
+[33mcommit 336f46b16e5bdd0b01a16cbcd04ff5a11b1412fd[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Jul 24 09:57:42 2025 +0545
+
+    optimized solution for two sum
+
+[33mcommit 3dcd5b95e46a8e6baa076c9f2594fcd4083d76cf[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Jul 24 09:00:27 2025 +0545
+
+    two sum brute force is done
+
+[33mcommit f5e5f609fcfa6961225ecb017eaffaebbe60af1c[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Jul 17 23:50:36 2025 +0545
+
+    first commmit
+
+[33mcommit ab844ba23468b1d9cf6532e2968f251ca392bee2[m
+Merge: e76a6e1 72cbb28
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Jul 17 23:49:28 2025 +0545
+
+    Merge branch 'main' of https://github.com/Suresh-Thakur206/DSA_mastery
+
+[33mcommit e76a6e17fbaf6a3de1a8c7989c7b8aef144f0e77[m
+Author: Suresh_Thakur <sureshthakur2080@gmail.com>
+Date:   Thu Jul 17 23:48:09 2025 +0545
+
+    initial commit
+
+[33mcommit 72cbb2862d69c979a09c0ad5998b1e0560603f66[m
+Author: Suresh-Thakur206 <sureshthakur2080@gmail.com>
+Date:   Thu Jul 17 23:45:38 2025 +0545
+
+    Initial commit
