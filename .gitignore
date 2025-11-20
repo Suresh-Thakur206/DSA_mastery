@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+
+## problems ##
+src/linkedList/medium/InterSectTwoLLBrute.java
+
