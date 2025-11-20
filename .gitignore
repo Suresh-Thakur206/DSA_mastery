@@ -31,4 +31,5 @@ bin/
 
 ## problems ##
 src/linkedList/medium/InterSectTwoLLBrute.java
+src/linkedList/medium/IntersectTwoLLOptimal.java
 
