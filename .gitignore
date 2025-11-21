@@ -32,4 +32,10 @@ bin/
 ## problems ##
 src/linkedList/medium/InterSectTwoLLBrute.java
 src/linkedList/medium/IntersectTwoLLOptimal.java
+src/Array/binarySearch/InsertPos1.java
+src/linkedList/easy/InsertAtDLLOpt.java
+src/linkedList/medium/Add1ToLLOptimal.java
+src/linkedList/medium/Add1toLLBrute.java
+src/linkedList/medium/AddTwoNumOptimal.java
+
 
