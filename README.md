@@ -153,14 +153,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Maintained by Suresh Thakur (GitHub: `Suresh-Thakur206`).
 
-If you have questions, open an issue or submit a pull request.
-
----
-
-If you'd like, I can also:
-
-- Add a `CONTRIBUTING.md` with a PR checklist and coding conventions.
-- Add a `build.gradle` (Gradle) or `pom.xml` (Maven) to standardize builds.
-- Auto-generate a problems index (README section) listing all files.
-
-Tell me which extras you'd like and I will add them.
