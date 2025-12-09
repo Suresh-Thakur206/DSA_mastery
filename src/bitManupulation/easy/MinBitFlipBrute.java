@@ -1,3 +1,7 @@
+//2220. Minimum Bit Flips to Convert Number
+// Brute Force Solution
+
+
 class Solution {
     public int minBitFlips(int start, int goal) {
         StringBuilder sb1=new StringBuilder();
